@@ -4,6 +4,7 @@ import os
 
 print('hi world')
 
+#
 def sum(x,y):
     return x+y
 
@@ -13,3 +14,7 @@ def sub (x,y):
 
 def mul (x,y):
     return x*y 
+
+
+def div (x,y):
+    return x/y
