@@ -16,13 +16,3 @@ print ('check conflict final')
 print ('change in the main after create branch and add to it')
 
 print ('now there is conflict in main')
-#
-def sum(x,y):
-    return x+y
-
-
-def sub (x,y):
-    return x-y
-
-def mul (x,y):
-    return x*y 
