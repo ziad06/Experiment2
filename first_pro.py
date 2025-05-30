@@ -24,4 +24,7 @@ def mod (x,y):
     return x%y  
 
 def fname(arg):
-    pass       
+    pass        
+
+def fname(arg):
+    pass
