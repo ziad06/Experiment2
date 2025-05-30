@@ -22,3 +22,5 @@ def div (x,y):
 
 def mod (x,y):
     return x%y  
+def print_hello():
+    print("Hello, World!")
