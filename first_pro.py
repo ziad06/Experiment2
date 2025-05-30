@@ -28,3 +28,5 @@ def fname(arg):
 
 def fname(arg):
     pass
+def print_hello():
+    print("Hello, World!")
